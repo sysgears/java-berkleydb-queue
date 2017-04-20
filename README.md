@@ -232,7 +232,7 @@ public class Queue {
 ```
 
 The unit tests for the queue:
-```
+``` java
 
 package com.sysgears;
 
@@ -386,7 +386,7 @@ public class UTestQueue {
 ```
 
 And here is a main class which measures the queue performance:
-```
+``` java
 
 package com.sysgears;
 
