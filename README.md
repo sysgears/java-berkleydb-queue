@@ -1,5 +1,7 @@
 ## Lightweight fast persistent queue in Java using Berkley DB
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/sysgears.svg?style=social)](https://twitter.com/sysgears)
+
 My original article has appeared here first:
 https://sysgears.com/articles/lightweight-fast-persistent-queue-in-java-using-berkley-db/
 
@@ -431,6 +433,3 @@ Time to poll 10000 records: 7764 ms</pre>
 Hope this helps,  
 Victor Vlasenko,
 SysGears
-
-## Stay In Touch
-For the latest articles, follow on Twitter: [@sysgears](https://twitter.com/sysgears)
